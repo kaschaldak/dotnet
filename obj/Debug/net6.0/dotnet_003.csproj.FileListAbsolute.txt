@@ -1,0 +1,15 @@
+C:\Users\иир\Desktop\учеба\dotNET\dotnet_003\bin\Debug\net6.0\dotnet_003.exe
+C:\Users\иир\Desktop\учеба\dotNET\dotnet_003\bin\Debug\net6.0\dotnet_003.deps.json
+C:\Users\иир\Desktop\учеба\dotNET\dotnet_003\bin\Debug\net6.0\dotnet_003.runtimeconfig.json
+C:\Users\иир\Desktop\учеба\dotNET\dotnet_003\bin\Debug\net6.0\dotnet_003.dll
+C:\Users\иир\Desktop\учеба\dotNET\dotnet_003\bin\Debug\net6.0\dotnet_003.pdb
+C:\Users\иир\Desktop\учеба\dotNET\dotnet_003\obj\Debug\net6.0\dotnet_003.csproj.AssemblyReference.cache
+C:\Users\иир\Desktop\учеба\dotNET\dotnet_003\obj\Debug\net6.0\dotnet_003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\иир\Desktop\учеба\dotNET\dotnet_003\obj\Debug\net6.0\dotnet_003.AssemblyInfoInputs.cache
+C:\Users\иир\Desktop\учеба\dotNET\dotnet_003\obj\Debug\net6.0\dotnet_003.AssemblyInfo.cs
+C:\Users\иир\Desktop\учеба\dotNET\dotnet_003\obj\Debug\net6.0\dotnet_003.csproj.CoreCompileInputs.cache
+C:\Users\иир\Desktop\учеба\dotNET\dotnet_003\obj\Debug\net6.0\dotnet_003.dll
+C:\Users\иир\Desktop\учеба\dotNET\dotnet_003\obj\Debug\net6.0\refint\dotnet_003.dll
+C:\Users\иир\Desktop\учеба\dotNET\dotnet_003\obj\Debug\net6.0\dotnet_003.pdb
+C:\Users\иир\Desktop\учеба\dotNET\dotnet_003\obj\Debug\net6.0\dotnet_003.genruntimeconfig.cache
+C:\Users\иир\Desktop\учеба\dotNET\dotnet_003\obj\Debug\net6.0\ref\dotnet_003.dll
